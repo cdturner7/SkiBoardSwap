@@ -1,0 +1,33 @@
+/* 
+    Created on : Nov 16, 2015, 12:12:31 PM
+    Author     : collinturner
+*/
+
+//created for the sitemap only
+
+
+img{
+    width: 100%;
+}
+.sitemapPic
+{
+    max-width: 25%;
+    border: thin solid darkslategray;
+    float: left;
+    margin: 1em 1em 1em 0;
+    padding: 0.5em;
+    float: right;
+}
+.cap{
+    background-color: whitesmoke;
+}
+
+/* ---------------------Body-----------------------------*/
+
+body{
+    padding-left: 3em;
+}
+
+footer{
+    padding-top: 3em;
+}
