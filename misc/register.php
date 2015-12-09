@@ -211,8 +211,8 @@ if (isset($_POST["btnSubmit"])) {
         // to the person filling out the form (section 2g).
 
         $message = '<h2>Success!</h2>'
-                . '<p> This is the information we have received from you. If there is a change in your '
-                . 'info, feel free to re-submit any changes. Thanks for your help!</p>';
+                . '<p> We have recieved your information. If there is a change in your '
+                . 'info, feel free to re-submit any changes. Thanks!</p>';
 
         foreach ($_POST as $key => $value) {
 

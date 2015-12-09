@@ -1,7 +1,6 @@
 <nav>
     <ul>
         <li><a href="index.php">Home</a></li>
-        <li><a href="about.php">About</a></li>
         <li>
             <a href="skihard.php">Ski Hardgoods</a>
             <ul class="dropdown">
@@ -38,5 +37,6 @@
         <li><a href="register.php">Join Us</a></li>
         <li><a href="sellHard.php">Sell Hardgood</a></li>
         <li><a href="sellSoft.php">Sell Softgood</a></li>
+        <li><a href="users.php">Users</a></li>
     </ul>
 </nav>

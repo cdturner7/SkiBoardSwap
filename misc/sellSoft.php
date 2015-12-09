@@ -162,8 +162,7 @@ if (isset($_POST["btnSubmit"])) {
         // to the person filling out the form (section 2g).
 
         $message = '<h2>Success!</h2>'
-                . '<p> This is the information we have received from you. If there is a change in your '
-                . 'info, feel free to re-submit any changes. Thanks for your help!</p>';
+                . '<p>You have Successfully posted your Softgood item on our website!</p>';
 
     } // end form is valid
 } // ends if form was submitted.

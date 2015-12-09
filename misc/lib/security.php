@@ -44,6 +44,7 @@ function securityCheck($path_parts, $yourURL, $form = false) {
     $whiteListPages[] = "sellSoft.php";
     $whiteListPages[] = "sellHard.php";
     $whiteListPages[] = "about.php";
+    $whiteListPages[] = "users.php";
     
 
     
